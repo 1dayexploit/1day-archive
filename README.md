@@ -4,7 +4,7 @@
   <img src="https://1dayexploit.com/assets/Logo-PNG.png" alt="1dayexploit" width="200" />
 </picture>
 
-# 1day-archive
+# 1dayexploit - archive
 
 **Technical deep-dives and root cause analyses of recently disclosed CVEs.**
 
