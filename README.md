@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img src="https://1dayexploit.com/assets/Logo-Full.png" alt="1dayexploit" width="200" />
+  <img src="https://1dayexploit.com/assets/Logo-Full.png" alt="1dayexploit" width="600" />
 </picture>
 
 # 1day-archive
