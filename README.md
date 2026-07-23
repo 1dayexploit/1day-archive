@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-42151` | Prometheus | Prometheus 2.48.0-3.5.2, 3.6.0-3.11.2 | Information Disclosure | High | [Read](./analyses/cve-2026-42151-prometheus-info-disclosure/) |
 | `CVE-2026-37709` | Grokability | Snipe-IT 8.4.0 and before | Authorization Bypass | Critical | [Read](./analyses/cve-2026-37709-snipe-it-authorization-bypass/) |
 | `CVE-2026-33589` | - | Open Notebook 1.8.3 | Path Traversal / LFI | High | [Read](./analyses/cve-2026-33589-open-notebook-lfi/) |
 | `CVE-2026-7482` | Ollama Project | Ollama < 0.17.1 | Heap Out-of-Bounds Read / Info Disclosure | Critical | [Read](./analyses/cve-2026-7482-ollama-heap-oob-read/) |
