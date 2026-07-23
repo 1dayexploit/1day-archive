@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-63030` | WordPress | WordPress 6.9.0-6.9.4, 7.0.0-7.0.1 | Route Confusion / RCE | Critical | [Read](./analyses/cve-2026-63030-wordpress-wp2shell-rce/) |
 | `CVE-2026-42151` | Prometheus | Prometheus 2.48.0-3.5.2, 3.6.0-3.11.2 | Information Disclosure | High | [Read](./analyses/cve-2026-42151-prometheus-info-disclosure/) |
 | `CVE-2026-37709` | Grokability | Snipe-IT 8.4.0 and before | Authorization Bypass | Critical | [Read](./analyses/cve-2026-37709-snipe-it-authorization-bypass/) |
 | `CVE-2026-33589` | - | Open Notebook 1.8.3 | Path Traversal / LFI | High | [Read](./analyses/cve-2026-33589-open-notebook-lfi/) |
