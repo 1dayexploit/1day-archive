@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-33589` | - | Open Notebook 1.8.3 | Path Traversal / LFI | High | [Read](./analyses/cve-2026-33589-open-notebook-lfi/) |
 | `CVE-2026-7482` | Ollama Project | Ollama < 0.17.1 | Heap Out-of-Bounds Read / Info Disclosure | Critical | [Read](./analyses/cve-2026-7482-ollama-heap-oob-read/) |
 | `CVE-2026-27960` | OpenCTI-Platform | OpenCTI 6.6.0-6.9.12 | Authentication Bypass | Critical | [Read](./analyses/cve-2026-27960-opencti-auth-bypass/) |
 
