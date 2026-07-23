@@ -32,7 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
-| `CVE-2026-27960` | Filigran | OpenCTI 6.6.0-6.9.12 | Privilege Escalation | Critical | [Read](./analyses/cve-2026-27960-opencti-privilege-escalation/) |
+| `CVE-2026-27960` | Filigran | OpenCTI 6.6.0-6.9.12 | Privilege Escalation / Auth Bypass | Critical | [Read](./analyses/cve-2026-27960-opencti-auth-bypass/) |
 
 > Full analyses live in their own subdirectories. Browse [`/analyses`](./analyses) for the complete list.
 
