@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-45668` | TriliumNext | Trilium Notes 0.0.9 - 0.102.1 | Path Traversal + RCE | Critical | [Read](./analyses/cve-2026-45668-trilium-notes-rce-path-traversal/) |
 | `CVE-2026-47668` | DbGate | DbGate 7.1.8 and prior | Remote Code Execution | Critical | [Read](./analyses/cve-2026-47668-dbgate-rce/) |
 | `CVE-2026-24061` | GNU Project | GNU Inetutils telnetd 1.9.3-2.7 | Argument Injection / Auth Bypass | Critical | [Read](./analyses/cve-2026-24061-inetutils-telnetd-auth-bypass/) |
 | `CVE-2026-63030` | WordPress | WordPress 6.9.0-6.9.4, 7.0.0-7.0.1 | Route Confusion / RCE | Critical | [Read](./analyses/cve-2026-63030-wordpress-wp2shell-rce/) |
