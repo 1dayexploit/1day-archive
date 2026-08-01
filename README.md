@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-66012` | SiYuan (Open Source) | SiYuan kernel 3.7.0 - 3.7.1 | Auth Bypass | Critical | [Read](./analyses/cve-2026-66012-siyuan-auth-bypass-admin-takeover/) |
 | `CVE-2026-18363` | osTicket / Enhancesoft LLC | osTicket 1.17.x and 1.18.0-1.18.3 | Auth Bypass | Critical | [Read](./analyses/cve-2026-18363-osticket-password-reset-bypass/) |
 | `CVE-2026-44966` | shepherdwind / Apache Velocity project | Velocity.js (velocityjs) 0.3.1 - 2.1.5 | Prototype Pollution | High | [Read](./analyses/cve-2026-44966-velocityjs-prototype-pollution/) |
 | `CVE-2026-45668` | TriliumNext | Trilium Notes 0.0.9 - 0.102.1 | Path Traversal + RCE | Critical | [Read](./analyses/cve-2026-45668-trilium-notes-rce-path-traversal/) |
