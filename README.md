@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-69251` | FlowiseAI | Flowise <= 3.1.2 | Code Injection / RCE | Critical | [Read](./analyses/cve-2026-69251-flowise-authenticated-rce/) |
 | `CVE-2025-8110` | Gogs Project | Gogs 0.13.0-0.13.3 | Arbitrary File Write via Symlink Following | High | [Read](./analyses/cve-2025-8110-gogs-symlink-rce/) |
 | `CVE-2026-66012` | SiYuan (Open Source) | SiYuan kernel 3.7.0 - 3.7.1 | Auth Bypass | Critical | [Read](./analyses/cve-2026-66012-siyuan-auth-bypass-admin-takeover/) |
 | `CVE-2026-18363` | osTicket / Enhancesoft LLC | osTicket 1.17.x and 1.18.0-1.18.3 | Auth Bypass | Critical | [Read](./analyses/cve-2026-18363-osticket-password-reset-bypass/) |
