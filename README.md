@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-9082` | Drupal | Drupal core 8.9.0 - 11.3.9 (PostgreSQL) | SQL Injection | Critical | [Read](./analyses/cve-2026-9082-drupal-sql-injection/) |
 | `CVE-2026-42208` | BerriAI | LiteLLM 1.81.16-1.83.6 | SQL Injection | Critical | [Read](./analyses/cve-2026-42208-litellm-pre-auth-sqli/) |
 | `CVE-2026-69251` | FlowiseAI | Flowise <= 3.1.2 | Code Injection / RCE | Critical | [Read](./analyses/cve-2026-69251-flowise-authenticated-rce/) |
 | `CVE-2025-8110` | Gogs Project | Gogs 0.13.0-0.13.3 | Arbitrary File Write via Symlink Following | High | [Read](./analyses/cve-2025-8110-gogs-symlink-rce/) |
