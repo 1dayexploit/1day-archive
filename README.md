@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-71238` | DjangoCRM | DjangoCRM 0.91 - 2.4.0 | Information Disclosure | Critical | [Read](./analyses/cve-2026-71238-djangocrm-debug-disclosure/) |
 | `CVE-2026-71269` | OpenJS Foundation | Node-RED 3.0.0-5.0.4 | Denial of Service | High | [Read](./analyses/cve-2026-71269-node-red-dos/) |
 | `CVE-2026-35210` | OpenCTI Platform / Filigran | OpenCTI < 7.260326.0 | Authorization Bypass | High | [Read](./analyses/cve-2026-35210-opencti-authorization-bypass/) |
 | `CVE-2026-9082` | Drupal | Drupal core 8.9.0 - 11.3.9 (PostgreSQL) | SQL Injection | Critical | [Read](./analyses/cve-2026-9082-drupal-sql-injection/) |
