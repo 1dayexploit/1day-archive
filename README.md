@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-71327` | Traefik Labs | Traefik 3.0.0-3.6.24 and 3.7.0-3.7.9 | Authorization Bypass | High | [Read](./analyses/cve-2026-71327-traefik-route-identity-collision/) |
 | `CVE-2026-14364` | Automattic Inc. (WordPress plugin ecosystem) | TrueBooker - Appointment Booking and Scheduler System <= 1.2.3 | Auth Bypass / Account Takeover | Critical | [Read](./analyses/cve-2026-14364-truebooker-auth-bypass/) |
 | `CVE-2026-4878` | kernel.org (libcap maintainers) | libcap 2.04 - 2.77 | TOCTOU Race Condition | Medium | [Read](./analyses/cve-2026-4878-libcap-toctou-race-privilege-escalation/) |
 | `CVE-2026-17594` | Sonatype | Nexus Repository 3 (CE and Pro) 3.0.0-3.94.x | Privilege Escalation | High | [Read](./analyses/cve-2026-17594-nexus-privilege-escalation/) |
