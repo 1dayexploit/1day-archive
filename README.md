@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2025-24813` | Apache Software Foundation | Apache Tomcat 9.0.0-9.0.98, 10.1.0-10.1.34, 11.0.0-11.0.2, 8.5.0-8.5.100 | Path Equivalence + Unsafe Deserialization | Critical | [Read](./analyses/cve-2025-24813-tomcat-rce/) |
 | `CVE-2026-13001` | Podlove Project | Podlove Podcast Publisher 4.5.1 | RCE via Arbitrary File Upload | Critical | [Read](./analyses/cve-2026-13001-podlove-rce/) |
 | `CVE-2026-34966` | Gitea | Gitea 1.26.4 and earlier | SSRF | High | [Read](./analyses/cve-2026-34966-gitea-ssrf/) |
 | `CVE-2026-71285` | Uptime Kuma (louislam) | Uptime Kuma 2.1.0-2.5.0 | Stored XSS | High | [Read](./analyses/cve-2026-71285-uptime-kuma-matomo-stored-xss/) |
