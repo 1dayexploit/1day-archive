@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-13001` | Podlove Project | Podlove Podcast Publisher 4.5.1 | RCE via Arbitrary File Upload | Critical | [Read](./analyses/cve-2026-13001-podlove-rce/) |
 | `CVE-2026-34966` | Gitea | Gitea 1.26.4 and earlier | SSRF | High | [Read](./analyses/cve-2026-34966-gitea-ssrf/) |
 | `CVE-2026-71285` | Uptime Kuma (louislam) | Uptime Kuma 2.1.0-2.5.0 | Stored XSS | High | [Read](./analyses/cve-2026-71285-uptime-kuma-matomo-stored-xss/) |
 | `CVE-2026-71327` | Traefik Labs | Traefik 3.0.0-3.6.24 and 3.7.0-3.7.9 | Authorization Bypass | High | [Read](./analyses/cve-2026-71327-traefik-route-identity-collision/) |
