@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-72585` | Grafana Labs | Grafana 11.6.9 - 13.1.3 | Authorization Bypass | Medium | [Read](./analyses/cve-2026-72585-grafana-authorization-bypass/) |
 | `CVE-2026-66915` | Fabrik | Fabrik 1.0.0-4.6.6 | Pre-Auth RCE | Critical | [Read](./analyses/cve-2026-66915-fabrik-rce/) |
 | `CVE-2026-72568` | Redis Labs | Redis through 8.8.1 | Out-of-Bounds Read | High | [Read](./analyses/cve-2026-72568-redis-oob-read/) |
 | `CVE-2026-72899` | Metabase | Metabase 0.58.0-0.63.4 (0.58.x - 0.63.x vulnerable range) | SQL Injection | Critical | [Read](./analyses/cve-2026-72899-metabase-sqli/) |
