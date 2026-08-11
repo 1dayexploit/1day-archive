@@ -32,7 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
-| `CVE-2026-59851` | libssh | libssh 0.12.0 | Authorization Bypass | High | [Read](./analyses/cve-2026-59851-libssh-authorization-bypass/) |
+| `CVE-2026-59851` | libssh | libssh 0.12.0 | Authorization Bypass | High | [Read](./analyses/cve-2026-59851-libssh-gssapi-keyex-auth-bypass/) |
 | `CVE-2026-12080` | QEMU Project / Red Hat | QEMU Guest Agent 5.2.0 - 11.0.3 | Privilege Escalation | High | [Read](./analyses/cve-2026-12080-qemu-guest-agent-privesc/) |
 | `CVE-2026-72585` | Grafana Labs | Grafana 11.6.9 - 13.1.3 | Authorization Bypass | Medium | [Read](./analyses/cve-2026-72585-grafana-authorization-bypass/) |
 | `CVE-2026-66915` | Fabrik | Fabrik 1.0.0-4.6.6 | Pre-Auth RCE | Critical | [Read](./analyses/cve-2026-66915-fabrik-rce/) |
