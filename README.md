@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-18391` | Automattic (WooCommerce) | WooCommerce Subscriptions < 9.1.0 | PHP Object Injection / RCE | Critical | [Read](./analyses/cve-2026-18391-woocommerce-subscriptions-rce/) |
 | `CVE-2026-67282` | fabrikar.com | Fabrik 1.0.0-4.6.7 | PHP Code Injection (RCE) | Critical | [Read](./analyses/cve-2026-67282-fabrik-rce/) |
 | `CVE-2026-72772` | n8n | n8n <= 2.31.4, 2.32.0 | Authentication Bypass | High | [Read](./analyses/cve-2026-72772-n8n-auth-bypass/) |
 | `CVE-2026-59083` | Apache Software Foundation | Apache Tomcat 8.5.0-11.0.23 | Auth Bypass (URL-Encoding Mismatch) | Critical | [Read](./analyses/cve-2026-59083-tomcat-url-encoding-bypass/) |
