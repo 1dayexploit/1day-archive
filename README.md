@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-28185` | rtCamp | Log in with Google 1.4.2 | Auth Bypass | Critical | [Read](./analyses/cve-2026-28185-login-with-google-auth-bypass/) |
 | `CVE-2026-34486` | Apache Software Foundation | Apache Tomcat 9.0.116, 10.1.53, 11.0.20 | Encryption Bypass / RCE | High | [Read](./analyses/cve-2026-34486-tomcat-tribes-rce/) |
 | `CVE-2026-3195` | QEMU Project | QEMU 8.2.0-10.2.1 | Heap Buffer Overflow | High | [Read](./analyses/cve-2026-3195-qemu-virtio-sound-heap-oob/) |
 | `CVE-2025-12464` | QEMU Project | QEMU 8.1.0 - 10.1.2 (e1000 network device) | Buffer Overflow | Medium | [Read](./analyses/cve-2025-12464-qemu-e1000-stack-oob/) |
