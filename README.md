@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2021-20295` | QEMU Project | QEMU 2.6.0-5.0.x; libslirp <= 4.3.0 | Out-of-Bounds Read | Medium | [Read](./analyses/cve-2021-20295-qemu-slirp-ipv6-oob-read/) |
 | `CVE-2026-56654` | Gitea Project | Gitea 1.26.4 and earlier | Privilege Escalation | Critical | [Read](./analyses/cve-2026-56654-gitea-token-scope-escalation/) |
 | `CVE-2026-19598` | The Pods Team | Pods - Custom Content Types and Fields 3.3.0-3.3.9 | Authorization Bypass | Critical | [Read](./analyses/cve-2026-19598-pods-auth-bypass/) |
 | `CVE-2026-28185` | rtCamp | Log in with Google 1.4.2 | Auth Bypass | Critical | [Read](./analyses/cve-2026-28185-login-with-google-auth-bypass/) |
