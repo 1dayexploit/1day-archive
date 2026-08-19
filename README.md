@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-47686` | patriksimek (vm2 project) | vm2 <= 3.11.5 | Sandbox Escape / RCE | Critical | [Read](./analyses/cve-2026-47686-vm2-sandbox-escape-rce/) |
 | `CVE-2026-15571` | Keycloak | Keycloak 26.7.x, 26.6.x | Authentication Bypass | High | [Read](./analyses/cve-2026-15571-keycloak-account-linking-auth-bypass/) |
 | `CVE-2026-42945` | F5 / NGINX Inc | NGINX Open Source, NGINX Plus 0.6.27-1.30.0 | Heap Buffer Overflow | Critical | [Read](./analyses/cve-2026-42945-nginx-rift-heap-overflow/) |
 | `CVE-2021-20295` | QEMU Project | QEMU 2.6.0-5.0.x; libslirp <= 4.3.0 | Out-of-Bounds Read | Medium | [Read](./analyses/cve-2021-20295-qemu-slirp-ipv6-oob-read/) |
