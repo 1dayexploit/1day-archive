@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-75143` | FFmpeg | FFmpeg 4.4 - 9.0 | Heap Buffer Overflow | Critical | [Read](./analyses/cve-2026-75143-ffmpeg-rist-heap-oob-write/) |
 | `CVE-2026-18051` | BoldGrid | W3 Total Cache < 2.10.5 | Path Traversal (Arbitrary File Write) | Critical | [Read](./analyses/cve-2026-18051-w3-total-cache-arbitrary-file-write/) |
 | `CVE-2026-18366` | Automast Ltd | Events Manager 7.1 - 7.4.0.1 | Privilege Escalation | Critical | [Read](./analyses/cve-2026-18366-events-manager-privilege-escalation/) |
 | `CVE-2026-47686` | patriksimek (vm2 project) | vm2 <= 3.11.5 | Sandbox Escape / RCE | Critical | [Read](./analyses/cve-2026-47686-vm2-sandbox-escape-rce/) |
