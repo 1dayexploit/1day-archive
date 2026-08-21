@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-19478` | GitLab B.V. | GitLab CE/EE 18.2-19.2.3 | Authorization Bypass | Critical | [Read](./analyses/cve-2026-19478-gitlab-graphql-bypass/) |
 | `CVE-2026-55674` | Discourse Project | Discourse 3.5.0.beta2 - 2026.6.0 | XSS (Cache Poisoning) | Critical | [Read](./analyses/cve-2026-55674-discourse-xss/) |
 | `CVE-2026-75143` | FFmpeg | FFmpeg 4.4 - 9.0 | Heap Buffer Overflow | Critical | [Read](./analyses/cve-2026-75143-ffmpeg-rist-heap-oob-write/) |
 | `CVE-2026-18051` | BoldGrid | W3 Total Cache < 2.10.5 | Path Traversal (Arbitrary File Write) | Critical | [Read](./analyses/cve-2026-18051-w3-total-cache-arbitrary-file-write/) |
