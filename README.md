@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-77998` | miniOrange | miniOrange SAML SSO for Joomla < 11.0.2, SAML SP Single Sign On - Login with ADFS < 6.4, SAML SP Single Sign On - SAML SSO login with Google Apps < 6.4 | Authentication Bypass | Critical | [Read](./analyses/cve-2026-77998-miniorange-saml-joomla-auth-bypass/) |
 | `CVE-2026-18963` | Red Hat / Keycloak Project | Keycloak 26.0.0 - 26.7.1 | Auth Bypass | Critical | [Read](./analyses/cve-2026-18963-keycloak-auth-bypass/) |
 | `CVE-2026-10053` | GitLab B.V. | GitLab CE/EE 18.8 - 19.2.1 | Path Traversal / Arbitrary File Write | High | [Read](./analyses/cve-2026-10053-gitlab-npm-path-traversal-rce/) |
 | `CVE-2026-77647` | SPIP | SPIP < 4.4.20 | Code Injection / RCE | Critical | [Read](./analyses/cve-2026-77647-spip-pre-auth-rce/) |
