@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-16639` | Drupal Security Team | Internationalization Single Sign-On (i18n_sso) - versions < 8.x-1.8 | Authentication Bypass | Critical | [Read](./analyses/cve-2026-16639-drupal-i18n-sso-auth-bypass/) |
 | `CVE-2026-68525` | Apache Software Foundation | Apache Tomcat 7.0.0 - 11.0.24 | Authorization Bypass | Critical | [Read](./analyses/cve-2026-68525-apache-tomcat-auth-bypass/) |
 | `CVE-2026-77998` | miniOrange | miniOrange SAML SSO for Joomla < 11.0.2, SAML SP Single Sign On - Login with ADFS < 6.4, SAML SP Single Sign On - SAML SSO login with Google Apps < 6.4 | Authentication Bypass | Critical | [Read](./analyses/cve-2026-77998-miniorange-saml-joomla-auth-bypass/) |
 | `CVE-2026-18963` | Red Hat / Keycloak Project | Keycloak 26.0.0 - 26.7.1 | Auth Bypass | Critical | [Read](./analyses/cve-2026-18963-keycloak-auth-bypass/) |
