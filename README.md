@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-76581` | Incsub / WPMU DEV | WPMU DEV Dashboard 5.0.1 | Auth Bypass | Critical | [Read](./analyses/cve-2026-76581-wpmu-dev-hub-sso-bypass/) |
 | `CVE-2025-55182` | Meta / Facebook Inc. | React Server Components 19.0.0, 19.1.0-19.1.1, 19.2.0 | Insecure Deserialization / RCE | Critical | [Read](./analyses/cve-2025-55182-react2shell-pre-auth-rce/) |
 | `CVE-2026-55634` | Pimcore | Pimcore 11.5.x, 12.3.x, 2026.1.x | PHP Code Injection + SQL Identifier Injection | Critical | [Read](./analyses/cve-2026-55634-pimcore-dataobject-php-injection-rce/) |
 | `CVE-2026-16639` | Drupal Security Team | Internationalization Single Sign-On (i18n_sso) - versions < 8.x-1.8 | Authentication Bypass | Critical | [Read](./analyses/cve-2026-16639-drupal-i18n-sso-auth-bypass/) |
