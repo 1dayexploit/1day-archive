@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-75816` | DynamiApps | Frontend Admin <= 3.29.12 (WordPress plugin acf-frontend-form-element) | Auth Bypass | Critical | [Read](./analyses/cve-2026-75816-frontend-admin-auth-bypass/) |
 | `CVE-2026-16723` | Alibaba | fastjson 1.2.68-1.2.83 | Unsafe Class Resolution / RCE | Critical | [Read](./analyses/cve-2026-16723-fastjson-rce/) |
 | `CVE-2026-83627` | WPMU DEV | Hummingbird <= 3.21.0 | Code Injection / RCE | Critical | [Read](./analyses/cve-2026-83627-hummingbird-rce/) |
 | `CVE-2026-59313` | Spring (VMware Tanzu / Broadcom) | Spring Framework 5.3.0-5.3.49, 6.0.0-6.0.30, 6.1.0-6.1.28, 6.2.0-6.2.19, 7.0.0-7.0.8 | CR/LF Injection | Critical | [Read](./analyses/cve-2026-59313-spring-framework-sse-crfl-injection/) |
