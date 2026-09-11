@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-84647` | Jenkins project / Cloudbees | Jenkins 2.579 (weekly) / 2.568.2 (LTS); Stapler 2107.v8dfcb_e8ed317 | Deserialization / Type Confusion | High | [Read](./analyses/cve-2026-84647-jenkins-stapler-type-confusion/) |
 | `CVE-2026-75816` | DynamiApps | Frontend Admin <= 3.29.12 (WordPress plugin acf-frontend-form-element) | Auth Bypass | Critical | [Read](./analyses/cve-2026-75816-frontend-admin-auth-bypass/) |
 | `CVE-2026-16723` | Alibaba | fastjson 1.2.68-1.2.83 | Unsafe Class Resolution / RCE | Critical | [Read](./analyses/cve-2026-16723-fastjson-rce/) |
 | `CVE-2026-83627` | WPMU DEV | Hummingbird <= 3.21.0 | Code Injection / RCE | Critical | [Read](./analyses/cve-2026-83627-hummingbird-rce/) |
