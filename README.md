@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-78159` | StellarWP | The Events Calendar <= 6.17.3 | Type Confusion / Code Injection | Critical | [Read](./analyses/cve-2026-78159-events-calendar-type-confusion-rce/) |
 | `CVE-2026-85706` | GitLab B.V. | GitLab CE/EE 18.7.0-19.3.1 | Path Traversal / Arbitrary File Read | Critical | [Read](./analyses/cve-2026-85706-gitlab-arbitrary-file-read/) |
 | `CVE-2026-78006` | StellarWP | The Events Calendar 6.17.3-6.17.4 | PHP Object Injection / RCE | Critical | [Read](./analyses/cve-2026-78006-events-calendar-rce/) |
 | `CVE-2026-84647` | Jenkins project / Cloudbees | Jenkins 2.579 (weekly) / 2.568.2 (LTS); Stapler 2107.v8dfcb_e8ed317 | Deserialization / Type Confusion | High | [Read](./analyses/cve-2026-84647-jenkins-stapler-type-confusion/) |
