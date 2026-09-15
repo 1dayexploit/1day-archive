@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-85706` | GitLab B.V. | GitLab CE/EE 18.7.0-19.3.1 | Path Traversal / Arbitrary File Read | Critical | [Read](./analyses/cve-2026-85706-gitlab-arbitrary-file-read/) |
 | `CVE-2026-78006` | StellarWP | The Events Calendar 6.17.3-6.17.4 | PHP Object Injection / RCE | Critical | [Read](./analyses/cve-2026-78006-events-calendar-rce/) |
 | `CVE-2026-84647` | Jenkins project / Cloudbees | Jenkins 2.579 (weekly) / 2.568.2 (LTS); Stapler 2107.v8dfcb_e8ed317 | Deserialization / Type Confusion | High | [Read](./analyses/cve-2026-84647-jenkins-stapler-type-confusion/) |
 | `CVE-2026-75816` | DynamiApps | Frontend Admin <= 3.29.12 (WordPress plugin acf-frontend-form-element) | Auth Bypass | Critical | [Read](./analyses/cve-2026-75816-frontend-admin-auth-bypass/) |
