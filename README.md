@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-60004` | Gitea | Gitea 1.17.0-1.27.0 | Remote Code Execution | Critical | [Read](./analyses/cve-2026-60004-gitea-diffpatch-rce/) |
 | `CVE-2026-37266` | trippo | Responsive FileManager 9.14.0 and prior | RCE / Path Traversal / Extension Whitelist Bypass | High | [Read](./analyses/cve-2026-37266-responsive-filemanager-rce/) |
 | `CVE-2026-78159` | StellarWP | The Events Calendar <= 6.17.3 | Type Confusion / Code Injection | Critical | [Read](./analyses/cve-2026-78159-events-calendar-type-confusion-rce/) |
 | `CVE-2026-85706` | GitLab B.V. | GitLab CE/EE 18.7.0-19.3.1 | Path Traversal / Arbitrary File Read | Critical | [Read](./analyses/cve-2026-85706-gitlab-arbitrary-file-read/) |
