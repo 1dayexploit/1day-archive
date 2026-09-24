@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-19949` | ServMask | All-in-One WP Migration and Backup <= 7.109 | SQL Injection | High | [Read](./analyses/cve-2026-19949-aiowm-sql-injection/) |
 | `CVE-2026-87902` | Automattic / WordPress.org | WordPress core 4.7.0-7.1.1 | Path Traversal / File Inclusion | High | [Read](./analyses/cve-2026-87902-wordpress-path-traversal-rce/) |
 | `CVE-2026-65634` | Erlang/OTP Foundation | Erlang/OTP 17.0 - 29.1.0 | Algorithmic Complexity DoS | High | [Read](./analyses/cve-2026-65634-erlang-oid-dos/) |
 | `CVE-2026-53940` | Conda (Anaconda Inc.) | Conda 26.5.0-26.5.1 | Path Traversal | High | [Read](./analyses/cve-2026-53940-conda-entry-point-rce/) |
