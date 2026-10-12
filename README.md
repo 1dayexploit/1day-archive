@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-18937` | WPMU DEV | Broken Link Checker < 2.4.12 | RCE | Critical | [Read](./analyses/cve-2026-18937-broken-link-checker-rce/) |
 | `CVE-2026-18480` | SureCart | SureCart 4.0.0-4.6.2 | Privilege Escalation / Account Takeover | High | [Read](./analyses/cve-2026-18480-surecart-account-takeover/) |
 | `CVE-2026-107645` | Creative Themes | Blocksy Companion <= 2.1.58 | Privilege Escalation | Critical | [Read](./analyses/cve-2026-107645-blocksy-companion-privilege-escalation/) |
 | `CVE-2018-1160` | Netatalk Project | Netatalk 3.1.x before 3.1.12 (and 2.x before 2.2.7) | Out-of-Bounds Write | Critical | [Read](./analyses/cve-2018-1160-netatalk-oob-write-rce/) |
