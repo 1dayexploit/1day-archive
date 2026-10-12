@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-87930` | MaxSite | MaxSite CMS 0.78-109.6 | Object Injection / RCE | High | [Read](./analyses/cve-2026-87930-maxsite-cms-object-injection-rce/) |
 | `CVE-2026-97229` | GitLab | GitLab CE/EE 19.2.x, 19.3.x, 19.4.x | Integer Overflow / RCE | Critical | [Read](./analyses/cve-2026-97229-gitlab-ci-regexp-rce/) |
 | `CVE-2026-18937` | WPMU DEV | Broken Link Checker < 2.4.12 | RCE | Critical | [Read](./analyses/cve-2026-18937-broken-link-checker-rce/) |
 | `CVE-2026-18480` | SureCart | SureCart 4.0.0-4.6.2 | Privilege Escalation / Account Takeover | High | [Read](./analyses/cve-2026-18480-surecart-account-takeover/) |
