@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-107645` | Creative Themes | Blocksy Companion <= 2.1.58 | Privilege Escalation | Critical | [Read](./analyses/cve-2026-107645-blocksy-companion-privilege-escalation/) |
 | `CVE-2018-1160` | Netatalk Project | Netatalk 3.1.x before 3.1.12 (and 2.x before 2.2.7) | Out-of-Bounds Write | Critical | [Read](./analyses/cve-2018-1160-netatalk-oob-write-rce/) |
 | `CVE-2026-65008` | Grav Foundation | Grav CMS 2.0.0-2.0.6 | Remote Code Execution | Critical | [Read](./analyses/cve-2026-65008-grav-cms-rce/) |
 | `CVE-2026-19949` | ServMask | All-in-One WP Migration and Backup <= 7.109 | SQL Injection | High | [Read](./analyses/cve-2026-19949-aiowm-sql-injection/) |
