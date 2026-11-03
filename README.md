@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-115188` | Mautic Community | Mautic 7.0.0-7.2.1 | Unrestricted File Upload / RCE | Critical | [Read](./analyses/cve-2026-115188-mautic-file-upload-rce/) |
 | `CVE-2026-77366` | The 40 Thieves | obsidian-tc < 1.3.1 | Authorization Bypass | Critical | [Read](./analyses/cve-2026-77366-obsidian-tc-auth-bypass/) |
 | `CVE-2026-87930` | MaxSite | MaxSite CMS 0.78-109.6 | Object Injection / RCE | High | [Read](./analyses/cve-2026-87930-maxsite-cms-object-injection-rce/) |
 | `CVE-2026-97229` | GitLab | GitLab CE/EE 19.2.x, 19.3.x, 19.4.x | Integer Overflow / RCE | Critical | [Read](./analyses/cve-2026-97229-gitlab-ci-regexp-rce/) |
