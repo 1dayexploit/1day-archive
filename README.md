@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-93680` | Langflow Inc | Langflow OSS 1.0.0-1.12.8 | Auth Bypass | Critical | [Read](./analyses/cve-2026-93680-langflow-auth-bypass/) |
 | `CVE-2026-108497` | TMS | Amelia 2.4.10 and earlier | SQL Injection | Critical | [Read](./analyses/cve-2026-108497-amelia-sql-injection/) |
 | `CVE-2026-108587` | 10Web | 10Web Booster (tenweb-speed-optimizer) 2.34.10 and earlier | RCE via Arbitrary File Upload | Critical | [Read](./analyses/cve-2026-108587-10web-booster-rce/) |
 | `CVE-2026-115188` | Mautic Community | Mautic 7.0.0-7.2.1 | Unrestricted File Upload / RCE | Critical | [Read](./analyses/cve-2026-115188-mautic-file-upload-rce/) |
