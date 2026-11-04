@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-121802` | Better Auth | @better-auth/expo 1.4.0-beta.6 to 1.7.15 | Authentication Bypass | Critical | [Read](./analyses/cve-2026-121802-better-auth-account-takeover/) |
 | `CVE-2026-88811` | SUSE | Rancher Manager 2.11.0-2.15.2 | Information Disclosure | Critical | [Read](./analyses/cve-2026-88811-rancher-credential-leak/) |
 | `CVE-2026-93680` | Langflow Inc | Langflow OSS 1.0.0-1.12.8 | Auth Bypass | Critical | [Read](./analyses/cve-2026-93680-langflow-auth-bypass/) |
 | `CVE-2026-108497` | TMS | Amelia 2.4.10 and earlier | SQL Injection | Critical | [Read](./analyses/cve-2026-108497-amelia-sql-injection/) |
