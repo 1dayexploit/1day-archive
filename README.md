@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-96677` | Apache Software Foundation | Apache Juneau 9.2.0 and earlier | Reflected XSS | Critical | [Read](./analyses/cve-2026-96677-apache-juneau-xss/) |
 | `CVE-2026-123158` | OpenSSH Project | OpenSSH portable < 10.6p2 (musl libc, without PAM) | Authentication Bypass | High | [Read](./analyses/cve-2026-123158-openssh-sshhole-auth-bypass/) |
 | `CVE-2026-117691` | Red Hat | Keycloak 26.8.1 and earlier | Authentication Bypass | Critical | [Read](./analyses/cve-2026-117691-keycloak-saml-auth-bypass/) |
 | `CVE-2026-93389` | LiteSpeed Technologies | LiteSpeed Cache 7.9.0-7.9.1 | Info Disclosure | High | [Read](./analyses/cve-2026-93389-litespeed-cache-leak/) |
