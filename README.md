@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-123158` | OpenSSH Project | OpenSSH portable < 10.6p2 (musl libc, without PAM) | Authentication Bypass | High | [Read](./analyses/cve-2026-123158-openssh-sshhole-auth-bypass/) |
 | `CVE-2026-117691` | Red Hat | Keycloak 26.8.1 and earlier | Authentication Bypass | Critical | [Read](./analyses/cve-2026-117691-keycloak-saml-auth-bypass/) |
 | `CVE-2026-93389` | LiteSpeed Technologies | LiteSpeed Cache 7.9.0-7.9.1 | Info Disclosure | High | [Read](./analyses/cve-2026-93389-litespeed-cache-leak/) |
 | `CVE-2026-119977` | Automattic | WordPress Core 4.7.0 - 7.1.3 | Predictable Web-Accessible Staging Directory / RCE | High | [Read](./analyses/cve-2026-119977-wordpress-core-rce/) |
