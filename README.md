@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-119618` | Apache Software Foundation | Apache HTTP Server 2.4.55-2.4.70 (mod_http2) | Data Race - Heap Corruption - RCE | Critical | [Read](./analyses/cve-2026-119618-apache-mod-http2-data-race-rce/) |
 | `CVE-2026-126187` | Meta | react-server-dom-webpack 19.0.0-19.3.0 | Deserialization RCE | Critical | [Read](./analyses/cve-2026-126187-react-zero-wire-rce/) |
 | `CVE-2026-96677` | Apache Software Foundation | Apache Juneau 9.2.0 and earlier | Reflected XSS | Critical | [Read](./analyses/cve-2026-96677-apache-juneau-xss/) |
 | `CVE-2026-123158` | OpenSSH Project | OpenSSH portable < 10.6p2 (musl libc, without PAM) | Authentication Bypass | High | [Read](./analyses/cve-2026-123158-openssh-sshhole-auth-bypass/) |
