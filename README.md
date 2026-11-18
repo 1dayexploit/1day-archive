@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-54831` | AyeCode Ltd | GeoDirectory 2.8.162 and earlier | SQL Injection | Critical | [Read](./analyses/cve-2026-54831-geodirectory-blind-sqli/) |
 | `CVE-2026-125423` | Gitea | Gitea < 28.4.0 | Race Condition / RCE | High | [Read](./analyses/cve-2026-125423-gitea-auto-init-rce/) |
 | `CVE-2026-119618` | Apache Software Foundation | Apache HTTP Server 2.4.55-2.4.70 (mod_http2) | Data Race - Heap Corruption - RCE | Critical | [Read](./analyses/cve-2026-119618-apache-mod-http2-data-race-rce/) |
 | `CVE-2026-126187` | Meta | react-server-dom-webpack 19.0.0-19.3.0 | Deserialization RCE | Critical | [Read](./analyses/cve-2026-126187-react-zero-wire-rce/) |
