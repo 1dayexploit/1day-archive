@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-101296` | Apache Software Foundation | Apache Tomcat 9.0.0-9.0.122, 10.1.0-10.1.60, 11.0.0-11.0.26 | Authentication Bypass | Critical | [Read](./analyses/cve-2026-101296-tomcat-jndirealm-auth-bypass/) |
 | `CVE-2026-133968` | Project MONAI | MONAI Label 0.8.5 and earlier | Path Traversal | Critical | [Read](./analyses/cve-2026-133968-monai-label-path-traversal-rce/) |
 | `CVE-2026-123024` | agentscope-ai | AgentScope 2.0.0 - 2.0.11 | Auth Bypass | High | [Read](./analyses/cve-2026-123024-agentscope-auth-bypass/) |
 | `CVE-2026-114952` | Oracle | MySQL Server 8.4.0-8.4.13, 9.7.0-9.7.4, 26.10; MySQL Cluster 8.0.0-8.0.50, 8.4.0-8.4.13, 9.7.0-9.7.4, 26.10 | Auth Bypass | Critical | [Read](./analyses/cve-2026-114952-mysql-client-auth-bypass/) |
