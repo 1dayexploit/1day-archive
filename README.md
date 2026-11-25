@@ -32,6 +32,7 @@ Each analysis contains:
 
 | CVE | Vendor | Product | Class | Severity | Write-up |
 |-----|--------|---------|-------|----------|----------|
+| `CVE-2026-94482` | Vercel | Next.js 13.0.0-16.4.0 (App Router) | Denial of Service | High | [Read](./analyses/cve-2026-94482-nextjs-server-actions-dos/) |
 | `CVE-2026-101296` | Apache Software Foundation | Apache Tomcat 9.0.0-9.0.122, 10.1.0-10.1.60, 11.0.0-11.0.26 | Authentication Bypass | Critical | [Read](./analyses/cve-2026-101296-tomcat-jndirealm-auth-bypass/) |
 | `CVE-2026-133968` | Project MONAI | MONAI Label 0.8.5 and earlier | Path Traversal | Critical | [Read](./analyses/cve-2026-133968-monai-label-path-traversal-rce/) |
 | `CVE-2026-123024` | agentscope-ai | AgentScope 2.0.0 - 2.0.11 | Auth Bypass | High | [Read](./analyses/cve-2026-123024-agentscope-auth-bypass/) |
